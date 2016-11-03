@@ -1,0 +1,1 @@
+include ':app', ':restfulcontacts', ':aidl', ':messenger', ':contentprovidertest', ':sockettest', ':binderpool'
